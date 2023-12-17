@@ -42,7 +42,7 @@ const externalApiService = {
           }
         })
       );
-
+        console.log(dataArray)
       return dataArray;
     } catch (error) {
       // error de la api externa
