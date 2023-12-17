@@ -42,7 +42,6 @@ const externalApiService = {
           }
         })
       );
-        console.log(dataArray)
       return dataArray;
     } catch (error) {
       // error de la api externa
@@ -66,8 +65,6 @@ const externalApiServiceAllFiles = {
       });
 
       const data = response.data;
-
-      console.log('Datos recibidos:', data);
       return data;
 
     } catch (error) {
