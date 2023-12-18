@@ -3,7 +3,7 @@
 
 # Explicacion de la Api
 
-   API REST en la que consume una api externa y reformatea los datos para ser consumidos de forma mas amigable del lado del front
+   Este proyecto consiste en una API REST que consume datos de una API externa y los reformatea para facilitar su consumo en el lado del front-end.
 
 # Estructura de Carpetas
  ```bash
@@ -14,7 +14,7 @@
     | |-- index.js # Archivo principal de la aplicación Express
     | |-- services/ # servicios de extraccion de data y formateo de api externa
     |-- test/
-    | |-- api.test.js # Pruebas utilizando Mocha y Chai
+    | |-- serviceApiexterna.test.js # Pruebas utilizando Mocha y Chai
     |-- node_modules/ # Dependencias de Node.js (ignorar en repositorio)
     |-- package.json # Archivo de configuración de Node.js
     |-- .gitignore # Especifica archivos/directorios a ignorar por Git

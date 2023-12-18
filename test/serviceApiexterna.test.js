@@ -5,14 +5,14 @@ const jsonDataFiles = require('./JsonMockFiles.json');
 const { externalApiService, externalApiServiceAllFiles } = require('../src/services/serviceApiexterna.js'); 
 
 describe('Data Formatter', () => {
-  it('test para corroborar la data formateada',async  () => {
+  it('test to corroborate the formatted data',async  () => {
     // Llama a tu método formatfetchAndFormatDataData para obtener la estructura de datos
     const result = await  externalApiService.fetchAndFormatData();
 
     // Realiza la afirmación usando chai.expect
     expect(result).to.deep.equal(jsonData);
   });
-  it('test para corroborar la data de todos los files',async  () => {
+  it('test to corroborate the data of all the files',async  () => {
     // Llama a tu método formatfetchAndFormatDataData para obtener la estructura de datos
     const result = await  externalApiServiceAllFiles.fetchAndFormatData();
 

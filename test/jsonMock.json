@@ -1,1 +1,227 @@
-[{"file":"test1.csv","lines":[]},{"file":"test2.csv","lines":[{"file":"test2.csv","text":"qItypD","number":"2325","hex":"14b81db75359838d5780c18f955854da"}]},{"file":"test3.csv","lines":[{"file":"test3.csv","text":"wbAvAMMlh","number":"883838","hex":"2957026ebeda5f488b06f84be207d9e6"},{"file":"test3.csv","text":"eauOHE","number":"80200178597975265580046115796950","hex":"0acb2ff5cc397f59403a13c879b85284"},{"file":"test3.csv","text":"FRqvZQkLqxswpZKRPNBkweGuW","number":"5743954","hex":"adec5d6cdb0b7586e7d3f5fbcb6a111b"}]},{"file":"test18.csv","lines":[{"file":"test18.csv","text":"N","number":"17921","hex":"jz8709d38e9aceaee99f8d000b6752"},{"file":"test18.csv","text":"ZUw","number":"44","hex":"jzad82d08dab7f360c589aecce9d27"},{"file":"test18.csv","text":"xshCovbLdTfVIJaSRFDlMecPrOOhS","number":"766223738","hex":"jz3ada0464506e12cb44d13a0ecba6"},{"file":"test18.csv","text":"inGtKhWZwlFVsMtC","number":"15860","hex":"jz057b5a54fe88c98f5abd70aa4be9"},{"file":"test18.csv","text":"pxxuAIYSDvDbMIfZdMOHIpvmwgCW","number":"4274883","hex":"jz97a06833ca9d6c103cb7af612d54"}]},{"file":null},{"file":null},{"file":"test6.csv","lines":[{"file":"test6.csv","text":"qwySTGXqxTlMnNUj","number":"884126036o","hex":"65fb61193909d1cae9283ef39a66aabb"},{"file":"test6.csv","text":"SiFwdZSFUrGzVeqtytfaNPCzkbt","number":"285019o","hex":"6ebd289429a7e4a76935da1f081dbcac"},{"file":"test6.csv","text":"UVuXhqBHpFXsoGXn","number":"5710o","hex":"0b8d98d4de2701ba42a84a1d205f9a91"},{"file":"test6.csv","text":"prljNrM","number":"973183o","hex":"02eca20558264753da03f29bb9733b35"},{"file":"test6.csv","text":"TDSRsYffKbwbiAkvTAQah","number":"8434260o","hex":"5a38b3a27bfd71c36ec2a311a859ef58"},{"file":"test6.csv","text":"Jcuj","number":"936o","hex":"853aeb1f30ab3c0484da29652c993e5c"},{"file":"test6.csv","text":"CMuuhFTwBgEBYjIWfUPYzCVlc","number":"8o","hex":"cbeb7d37dcd94d1887f3dfb49a0ff17d"},{"file":"test6.csv","text":"LgFppCZpuiKMpKmtOIgcewjkQcA","number":"7o","hex":"96d381faca2e452ba037aea9049861d2"},{"file":"test6.csv","text":"PqMzcRaFVHJFgFfh","number":"40733o","hex":"5318d390978c2338e8a01a0b68269258"},{"file":"test6.csv","text":"CAXrEQTsfOVzkeBw","number":"8736265o","hex":"a4ea658e4c12e5d65ad714083d4dd6a6"}]},{"file":"test9.csv","lines":[{"file":"test9.csv","text":"tCLay","number":"4755721","hex":"21bf2a297e3d47642ef1d67ab218a354"},{"file":"test9.csv","text":"gvYPqBFwBHuVLEkmupJVGKVohSTu","number":"32145667551882973504851637623613","hex":"3ef10b991a8a00374b7664a7fe763827"},{"file":"test9.csv","text":"MWYwjcRdWNEkGKXATAwTPMppXgjJjB","number":"73","hex":"b6becb546f0200b7b567036555d21e05"},{"file":"test9.csv","text":"SJRxJZtCTicbmGWYmQxyeFYAsHg","number":"13807","hex":"c15eae230406fd14359f30edcd50d0d3"},{"file":"test9.csv","text":"pomweTJaImWnkbNRDRYb","number":"0","hex":"baaf2c8a3886b6b6acf85966ee3ccd15"},{"file":"test9.csv","text":"baMBmd","number":"5","hex":"0ad7ed3818adf241f3321ec4136759d0"},{"file":"test9.csv","text":"KXNpnZzzMHvWIwAyjdqHDwBMOLwAyY","number":"87165","hex":"eec2690a9d44688ef61405d083db429c"},{"file":"test9.csv","text":"WPzbfsrfNH","number":"5474","hex":"a6732184c03b7e183bc330149c4ae6f1"},{"file":"test9.csv","text":"AYhnfMcHIFRzfKWqnOGOpENCVJnB","number":"1330","hex":"1ccb723fd696e51aad6cb1eb7362a6ca"},{"file":"test9.csv","text":"FpbwGsiR","number":"422","hex":"69e2fd57252160348f65b5cfb08e943c"},{"file":"test9.csv","text":"juuwHSXsJRLrHRYiJS","number":"4","hex":"58416651e3faf992aae6e0b6cdf0d44f"},{"file":"test9.csv","text":"xqt","number":"1954","hex":"d65471538980b799a76bb9ed9c7d2eb0"}]},{"file":"test15.csv","lines":[]}]
+[
+    {
+        "file": "test1.csv",
+        "lines": []
+    },
+    {
+        "file": "test2.csv",
+        "lines": [
+            {
+                "file": "test2.csv",
+                "text": "nCf",
+                "number": "667",
+                "hex": "c2cd8336fb5db655d0ac9155431ccac5"
+            }
+        ]
+    },
+    {
+        "file": "test3.csv",
+        "lines": [
+            {
+                "file": "test3.csv",
+                "text": "vVfJhNxKDPZgBvFFc",
+                "number": "49481254",
+                "hex": "71f5dc2ba5068491935968ab3a6a08d9"
+            },
+            {
+                "file": "test3.csv",
+                "text": "MizqmYWJbRwa",
+                "number": "3550436",
+                "hex": "c9cc804178f358206cf5706593db8e83"
+            },
+            {
+                "file": "test3.csv",
+                "text": "ytoXavOilLwzUKRgUp",
+                "number": "56173141",
+                "hex": "272a66e7936d64e8823adf22f04dbfd1"
+            }
+        ]
+    },
+    {
+        "file": "test18.csv",
+        "lines": [
+            {
+                "file": "test18.csv",
+                "text": "tOJsufLolervuOiwFXllo",
+                "number": "770722",
+                "hex": "jzcac3604d11049529e2588f1cf21c"
+            },
+            {
+                "file": "test18.csv",
+                "text": "VKw",
+                "number": "701",
+                "hex": "jz88e474843f7c3f572a270646db32"
+            },
+            {
+                "file": "test18.csv",
+                "text": "ideNLjWfDArPzcVnVYxSWGSddoGR",
+                "number": "48",
+                "hex": "jz0da0a3236c9c5af63ae32db40922"
+            },
+            {
+                "file": "test18.csv",
+                "text": "ATXmazNCwSzIUUDdpnXaemZCaWHvyJ",
+                "number": "83531049477330389982319928805775",
+                "hex": "jz2f9c44fbc7b2f5189b15a8392081"
+            },
+            {
+                "file": "test18.csv",
+                "text": "V",
+                "number": "85",
+                "hex": "jz0b57e21c9b264642a24739fafbcd"
+            }
+        ]
+    },
+    {
+        "file": null
+    },
+    {
+        "file": null
+    },
+    {
+        "file": "test6.csv",
+        "lines": [
+            {
+                "file": "test6.csv",
+                "text": "EAcRYDWAWpHwdkeKMQIbGbGlNSVg",
+                "number": "31130o",
+                "hex": "a5fb83c532d2d255716578b6fe210ec1"
+            },
+            {
+                "file": "test6.csv",
+                "text": "rHzutyNW",
+                "number": "90342o",
+                "hex": "6f2534bbe307b0681568c91010305366"
+            },
+            {
+                "file": "test6.csv",
+                "text": "TatiRFnBJAQRQuFT",
+                "number": "70725493o",
+                "hex": "bac264371c74be959fd4ec457733319d"
+            },
+            {
+                "file": "test6.csv",
+                "text": "DbmshDckrjwUxk",
+                "number": "65o",
+                "hex": "2a7e15c354df9eac3d8252a08ab93ed1"
+            },
+            {
+                "file": "test6.csv",
+                "text": "NMYbhpLPVOvEHZWiJGQyqwdKgjTxh",
+                "number": "4o",
+                "hex": "270ae145732ada64332f9486b7dd237d"
+            },
+            {
+                "file": "test6.csv",
+                "text": "uxBwnzCsUbDSBmFbkaySCR",
+                "number": "1007841o",
+                "hex": "419ab0599106ccf7f95d4efbe4bb021f"
+            },
+            {
+                "file": "test6.csv",
+                "text": "lQnMvcdKwfKcvrqcVSeoE",
+                "number": "53813o",
+                "hex": "e45212d4614cd069fee3bcc28b828d75"
+            },
+            {
+                "file": "test6.csv",
+                "text": "yJuWZgzQyUGApxNYuenaaDbhw",
+                "number": "9o",
+                "hex": "1014e0907a4cb408462ecaea776c8d16"
+            },
+            {
+                "file": "test6.csv",
+                "text": "IrvfZPJdhqKKdbsAaCGqG",
+                "number": "62909o",
+                "hex": "a062f12dabd3fb8e373f2977af6d0aef"
+            },
+            {
+                "file": "test6.csv",
+                "text": "YCLFmzIByZBSz",
+                "number": "1037143457o",
+                "hex": "673eab0d44ce14f259b1ea2f26429858"
+            }
+        ]
+    },
+    {
+        "file": "test9.csv",
+        "lines": [
+            {
+                "file": "test9.csv",
+                "text": "LUCuGsol",
+                "number": "2463",
+                "hex": "cf6bbe1f5cd83b7cdbd251f5aac043c7"
+            },
+            {
+                "file": "test9.csv",
+                "text": "jPZepcDlaXkLqEzEYcKGBu",
+                "number": "052469147",
+                "hex": "69a46eab96a131b662a5a5b566ca55c6"
+            },
+            {
+                "file": "test9.csv",
+                "text": "smAAsWSPeVBFpHoLabdpqrOxHbNjx",
+                "number": "18603642",
+                "hex": "4fe0302ed8889603f20e8f881f6d7b6a"
+            },
+            {
+                "file": "test9.csv",
+                "text": "WYpsEMj",
+                "number": "55967",
+                "hex": "134deaf638b6a42d08bba4026ddc438e"
+            },
+            {
+                "file": "test9.csv",
+                "text": "oHKYXM",
+                "number": "45357",
+                "hex": "e512ebe815959469d3b36886db653b97"
+            },
+            {
+                "file": "test9.csv",
+                "text": "QbePLPdbunNwlRwpFKCndfOVI",
+                "number": "007",
+                "hex": "77ed2c0b29e76d2dc4bf29c7fb196c2a"
+            },
+            {
+                "file": "test9.csv",
+                "text": "gyhCRAjCjzufeJAdqzYgnyJJgwb",
+                "number": "1",
+                "hex": "24efa1ae68233c24a823f09edfbc4b25"
+            },
+            {
+                "file": "test9.csv",
+                "text": "JWxavzo",
+                "number": "2462151156",
+                "hex": "511a38c09b3d3af581b3070ad771dea5"
+            },
+            {
+                "file": "test9.csv",
+                "text": "s",
+                "number": "5556572128",
+                "hex": "3ea9c7980c2614e052ce8d9de98b58ea"
+            },
+            {
+                "file": "test9.csv",
+                "text": "aroAmjeockX",
+                "number": "3",
+                "hex": "abe71fc8444ac6673f5cfa7386a56c31"
+            },
+            {
+                "file": "test9.csv",
+                "text": "YlPFNkOINgRuxcYi",
+                "number": "2255",
+                "hex": "9fa278bd6fffca180c6afb5e1f8d185b"
+            },
+            {
+                "file": "test9.csv",
+                "text": "WJHRmrXOVYOWPOirrzNSZcmumLO",
+                "number": "07",
+                "hex": "00accee9289636a4ff5e99c25872dea8"
+            }
+        ]
+    },
+    {
+        "file": "test15.csv",
+        "lines": []
+    }
+]
